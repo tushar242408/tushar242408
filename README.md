@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 
+### [<img src="https://image.flaticon.com/icons/png/512/60/60543.png" height="30">](tusharkakkar23@gmail.com)  &ensp; [<img src="https://cdn.freelogovectors.net/wp-content/uploads/2016/12/instagram-logo1.png" height="30">](https://www.instagram.com/___t_u_s_h_a_r/)&ensp; [<img src="https://image.flaticon.com/icons/png/512/23/23931.png" height="30">](https://twitter.com/Tusharkakker) &ensp; [<img src="https://img.flaticon.com/icons/png/512/61/61109.png" height="30">](https://www.linkedin.com/in/tushar-kakkar-088073172)
+
+
 - 🔭 I’m currently working on Personal project
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Instagram
